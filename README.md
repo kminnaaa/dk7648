@@ -47,5 +47,3 @@
 <p align="center">
 <Strong>Email 📧</Strong><br>dk7648@korea.ac.kr<br>
 </p>
-
-https://capsule-render.vercel.app/api?
