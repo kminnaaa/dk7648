@@ -1,28 +1,26 @@
-## Backend Frameworks
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20dk7648's%20Github&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
+
+## Tech Stack
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
 
-## Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
-## Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=AmazonAWS&logoColor=white)
 
-## Cloud & DevOps
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=AmazonAWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
-## Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-## Collaboration Tool
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-dddddd?style=flat&logo=Notion&logoColor=black)
 
@@ -42,10 +40,12 @@
 - **Programming Language Center 근로 장학생** | 2024.03 ~ 2025.12  
 
 ## Competition & Research
-- **kuding 알고리즘 경진대회** | 2025.10 | 🏆 1등  
+- **kuding 알고리즘 경진대회** | 2025.10 | 1등  
 - **ICONI 2025 학술지 "Forecasting Annual Rice Production Using a State-Space Model with Ridge Regression" 제 1저자** | 2025.12  
 
 <br><br>
 <p align="center">
 <Strong>Email 📧</Strong><br>dk7648@korea.ac.kr<br>
 </p>
+
+https://capsule-render.vercel.app/api?
