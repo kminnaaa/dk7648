@@ -1,7 +1,3 @@
-<p align="center">
-    <Strong>Tech Stack</Strong><br>
-</p>
-
 ## Backend Frameworks
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
