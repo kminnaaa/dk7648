@@ -30,15 +30,6 @@
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-dddddd?style=flat&logo=Notion&logoColor=black)
 
-
-
-## Tech Experience
-- **Backend Frameworks**: Spring Boot, Django  
-- **Frontend**: React, HTML, CSS, JavaScript  
-- **Database**: MySQL, AWS RDS  
-- **Cloud & DevOps**: AWS (EC2, RDS), Docker  
-- **Programming Languages**: Java, C, C++, Python  
-
 ## Certification
 - SQLD  
 - 정보처리기사  
