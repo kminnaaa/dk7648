@@ -40,7 +40,7 @@
 - **Programming Language Center 근로 장학생** | 2024.03 ~ 2025.12  
 
 ## Competition & Research
-- **kuding 알고리즘 경진대회** | 2025.10 | 1등  
+- **kuding 알고리즘 경진대회** | 2025.10 | 1위  
 - **ICONI 2025 학술지 "Forecasting Annual Rice Production Using a State-Space Model with Ridge Regression" 제 1저자** | 2025.12  
 
 <br><br>
